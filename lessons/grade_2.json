@@ -4,14 +4,14 @@
     {
       "id": "g1_l1",
       "title": {
-        "en": "Lesson 1",
-        "vi": "Bài học lớp 1 đầu tiên"
+        "en": "Lesson 2",
+        "vi": "Bài học lớp 2 đầu tiên"
       },
       "sentences": [
         {
           "id": "g1_l1_s1",
-          "en": "First grade lesson one.",
-          "vi": "Bài học lớp 1 đầu tiên"
+          "en": "First grade lesson two.",
+          "vi": "Bài học lớp 2 đầu tiên"
         }
       ]
     }
