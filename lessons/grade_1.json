@@ -2,16 +2,16 @@
   "grade": 1,
   "lessons": [
     {
-      "id": "g1_l1",
-      "title": {
-        "en": "Lesson 1",
-        "vi": "Bài học lớp 1 đầu tiên"
-      },
+      "lessonNumber": 1,
+      "title": "Lesson 1",
       "sentences": [
         {
           "id": "g1_l1_s1",
-          "en": "First grade lesson one.",
-          "vi": "Bài học lớp 1 đầu tiên"
+          "english": "First grade lesson one.",
+          "translations": {
+            "vi": "Bài học lớp 1 đầu tiên",
+            "en": "First grade lesson one."
+          }
         }
       ]
     }
