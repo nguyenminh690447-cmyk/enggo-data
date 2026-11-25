@@ -1,16 +1,48 @@
 {
   "grade": 1,
+  "level": "Primary",
   "lessons": [
     {
       "lessonNumber": 1,
-      "title": "Lesson 1",
+      "title": "Lesson 1: Greetings",
       "sentences": [
         {
           "id": "g1_l1_s1",
-          "english": "First grade lesson one.",
+          "english": "Hello! What is your name?",
           "translations": {
-            "vi": "Bài học lớp 1 đầu tiên",
-            "en": "First grade lesson one."
+            "vi": "Xin chào! Tên của bạn là gì?",
+            "en": "Hello! What is your name?",
+            "ko": "안녕! 이름이 뭐니?",
+            "ja": "こんにちは！お名前は何ですか？",
+            "zh-cn": "你好！你叫什么名字？"
+          }
+        },
+        {
+          "id": "g1_l1_s2",
+          "english": "My name is Tom.",
+          "translations": {
+            "vi": "Tên của mình là Tom.",
+            "en": "My name is Tom.",
+            "ko": "내 이름은 톰이야.",
+            "ja": "私の名前はトムです。",
+            "zh-cn": "我的名字是汤姆。"
+          }
+        }
+      ]
+    },
+    {
+      "lessonNumber": 2,
+      "title": "Lesson 2: Colors",
+      "sentences": [
+        {
+          "id": "g1_l2_s1",
+          "english": "This apple is red.",
+          "translations": {
+            "vi": "Quả táo này màu đỏ.",
+            "en": "This apple is red.",
+            "ko": "이 사과는 빨간색이야.",
+            "ja": "このりんごは赤いです。",
+            "zh-cn": "这个苹果是红色的。"
           }
         }
       ]
