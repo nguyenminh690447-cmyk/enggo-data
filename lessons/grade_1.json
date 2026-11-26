@@ -8,7 +8,7 @@
       "sentences": [
         {
           "id": "g1_l1_s1",
-          "english": "Hello! What is this ?",
+          "english": "Unit 1",
           "translations": {
             "vi": "Xin chào! Đây là quả bóng ?",
             "en": "Hello! What is your name?",
@@ -19,7 +19,7 @@
         },
         {
           "id": "g1_l1_s2",
-          "english": "My name is Tom.",
+          "english": "Ball",
           "translations": {
             "vi": "Tên của mình là Tom.",
             "en": "My name is Tom.",
