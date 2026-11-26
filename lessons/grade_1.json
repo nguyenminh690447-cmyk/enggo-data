@@ -28,6 +28,18 @@
             "zh-cn": "我的名字是汤姆。"
           }
         }
+        {
+          "id": "g1_l1_s3",
+          "english": "Book",
+          "translations": {
+            "vi": "Cuốn sách",
+            "en": "Hello! What is your name?",
+            "ko": "안녕! 이름이 뭐니?",
+            "ja": "こんにちは！お名前は何ですか？",
+            "zh-cn": "你好！你叫什么名字？"
+          }
+        },
+      
       ]
     },
     {
