@@ -8,9 +8,9 @@
       "sentences": [
         {
           "id": "g1_l1_s1",
-          "english": "Hello! What is your name?",
+          "english": "Hello!This is a ball?",
           "translations": {
-            "vi": "Xin chào! Tên của bạn là gì?",
+            "vi": "Xin chào! Đây là quả bóng ?",
             "en": "Hello! What is your name?",
             "ko": "안녕! 이름이 뭐니?",
             "ja": "こんにちは！お名前は何ですか？",
