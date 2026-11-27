@@ -9,37 +9,37 @@
         {
           "id": "g1_l1_s1",
           "english": "Unit 1",
-         
+          
         },
         {
           "id": "g1_l1_s2",
           "english": "Ball",
-        
+          
         },
         {
           "id": "g1_l1_s3",
           "english": "Book",
-        
+          
         },
         {
           "id": "g1_l1_s4",
           "english": "Bike",
-       
+          
+        },
+         {
+          "id": "g1_l1_s4",
+          "english": "Cat",
+          
         },
         {
           "id": "g1_l1_s5",
           "english": "Hi ! I'm Tom ",
-      
+          
         },
         {
-          "id": "g1_l1_s6",
+          "id": "g1_l1_s3",
           "english": "Bye! Tom",
-        
-        },
-        {
-          "id": "g1_l1_s7",
-          "english": "Cat",
-        
+          
         }
       ]
     },
@@ -50,7 +50,7 @@
         {
           "id": "g1_l2_s1",
           "english": "This apple is red.",
-          
+         
         }
       ]
     }
