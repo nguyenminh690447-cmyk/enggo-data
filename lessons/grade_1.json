@@ -61,9 +61,20 @@
             "zh-cn": "你好！你叫什么名字？"
           }
         },
+         {
+          "id": "g1_l1_s6",
+          "english": "Bye! Tom ",
+          "translations": {
+            "vi": "Tạm biệt Tom",
+            "en": "Hello! What is your name?",
+            "ko": "안녕! 이름이 뭐니?",
+            "ja": "こんにちは！お名前は何ですか？",
+            "zh-cn": "你好！你叫什么名字？"
+          }
+        },
         {
-          "id": "g1_l1_s3",
-          "english": "Bye! Tom",
+          "id": "g1_l1_s7",
+          "english": "Cat",
           "translations": {
             "vi": " xin chào ! Mình là Tom ",
             "en": "My name is Tom.",
