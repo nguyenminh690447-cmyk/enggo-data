@@ -27,8 +27,12 @@
           "english": "Hi ! I'm Tom ",
         },
         {
-          "id": "g1_l1_s3",
+          "id": "g1_l1_s6",
           "english": "Bye! Tom",
+        },
+        {
+          "id": "g1_l1_s7",
+          "english": "Cat",
         }
       ]
     },
