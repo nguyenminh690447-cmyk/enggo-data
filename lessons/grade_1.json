@@ -50,13 +50,7 @@
         {
           "id": "g1_l2_s1",
           "english": "This apple is red.",
-          "translations": {
-            "vi": "Quả táo này màu đỏ.",
-            "en": "This apple is red.",
-            "ko": "이 사과는 빨간색이야.",
-            "ja": "このりんごは赤いです。",
-            "zh-cn": "这个苹果是红色的。"
-          }
+          
         }
       ]
     }
