@@ -8,39 +8,32 @@
       "sentences": [
         {
           "id": "g1_l1_s1",
-          "english": "Unit 1",
-          
+          "english": "Unit 1",     
         },
         {
           "id": "g1_l1_s2",
-          "english": "Ball",
-          
+          "english": "Ball",       
         },
         {
           "id": "g1_l1_s3",
-          "english": "Book",
-         
+          "english": "Book",     
         },
         {
           "id": "g1_l1_s4",
-          "english": "Bike",
-         
+          "english": "Bike",        
         },
         {
           "id": "g1_l1_s5",
-          "english": "Hi ! I'm Tom ",
-          
+          "english": "Hi ! I'm Tom ",         
         },
          {
           "id": "g1_l1_s6",
-          "english": "Bye! Tom ",
-          
+          "english": "Bye! Tom ",          
         },
         {
           "id": "g1_l1_s7",
-          "english": "Cat",
-         
-        }
+          "english": "Cat",         
+        }       
       ]
     },
     {
@@ -49,8 +42,7 @@
       "sentences": [
         {
           "id": "g1_l2_s1",
-          "english": "This apple is red.",
-          
+          "english": "This apple is red.",          
         }
       ]
     }
