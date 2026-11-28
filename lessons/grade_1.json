@@ -62,7 +62,7 @@
           }
         },
         {
-          "id": "g1_l1_s3",
+          "id": "g1_l1_s6",
           "english": "Bye! Tom",
           "translations": {
             "vi": " xin chào ! Mình là Tom ",
@@ -82,9 +82,19 @@
           "translations": { "vi": "Quả bóng" }
         },
         {
-          "id": "u1_s2",
+          "id": "u1_s1",
           "english": "Bike",
           "translations": { "vi": "Xe đạp" }
+        },
+        {
+          "id": "u1_s1",
+          "english": "Book",
+          "translations": { "vi": "Cuốn sách" }
+        },
+        {
+          "id": "u1_s2",
+          "english": "Tom",
+          "translations": { "vi": "Tom" }
         }
       ],
       "vocabulary": [
