@@ -71,7 +71,29 @@
             "ja": "私の名前はトムです。",
             "zh-cn": "我的名字是汤姆。"
           }
+        },
+         {
+      "lessonNumber": 1,
+      "title": "Unit 1: In the school playground",
+      "sentences": [
+        {
+          "id": "u1_s1",
+          "english": "Ball",
+          "translations": { "vi": "Quả bóng" }
+        },
+        {
+          "id": "u1_s2",
+          "english": "Bike",
+          "translations": { "vi": "Xe đạp" }
         }
+      ],
+      "vocabulary": [
+        "Ball",
+        "Bike",
+        "Book",
+        "Tom"
+      ]
+    }
       ]
     },
     {
