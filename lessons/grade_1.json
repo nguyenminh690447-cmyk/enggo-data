@@ -72,10 +72,6 @@
             "zh-cn": "我的名字是汤姆。"
           }
         },
-         {
-      "lessonNumber": 1,
-      "title": "Unit 1: In the school playground",
-      "sentences": [
         {
           "id": "u1_s1",
           "english": "Ball",
@@ -91,11 +87,19 @@
           "english": "Book",
           "translations": { "vi": "Cuốn sách" }
         },
-        {
+         {
           "id": "u1_s2",
           "english": "Tom",
           "translations": { "vi": "Tom" }
         }
+         {
+      "lessonNumber": 1,
+      "title": "Unit 1: In the school playground",
+      "sentences": [
+        
+        
+        
+       
       ],
       "vocabulary": [
         "Ball",
